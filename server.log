@@ -1,0 +1,77 @@
+2025-07-11 16:49:16,471 - root - INFO - Starting SiMa.ai genai server with None None
+2025-07-11 16:49:16,471 - root - INFO - Started standalone HTTP server in a separate thread
+2025-07-11 16:49:16,472 - root - INFO - Standalone HTTP server is running on port 8081
+2025-07-11 16:49:16,476 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:5000
+ * Running on https://192.168.48.144:5000
+2025-07-11 16:49:16,476 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-11 16:49:33,456 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:49:33] "GET / HTTP/1.1" 200 -
+2025-07-11 16:49:33,495 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:49:33] "GET /static/style.css HTTP/1.1" 200 -
+2025-07-11 16:49:33,495 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:49:33] "GET /static/default.jpg HTTP/1.1" 200 -
+2025-07-11 16:49:33,496 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:49:33] "GET /static/socket.io.min.js HTTP/1.1" 200 -
+2025-07-11 16:49:33,497 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:49:33] "GET /static/main.js HTTP/1.1" 200 -
+2025-07-11 16:49:33,521 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:49:33] "GET /socket.io/?EIO=4&transport=polling&t=PVvDaUC HTTP/1.1" 200 -
+2025-07-11 16:49:33,523 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:49:33] "GET /static/finalDash.png HTTP/1.1" 200 -
+2025-07-11 16:49:33,551 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:49:33] "POST /socket.io/?EIO=4&transport=polling&t=PVvDaUg&sid=Ky0vyDwq27WAhKL0AAAA HTTP/1.1" 200 -
+2025-07-11 16:49:33,557 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:49:33] "GET /socket.io/?EIO=4&transport=polling&t=PVvDaUi&sid=Ky0vyDwq27WAhKL0AAAA HTTP/1.1" 200 -
+2025-07-11 16:49:33,560 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:49:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-11 16:49:35,271 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:49:35] "GET /socket.io/?EIO=4&transport=websocket&sid=Ky0vyDwq27WAhKL0AAAA HTTP/1.1" 200 -
+2025-07-11 16:49:35,277 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:49:35] "GET / HTTP/1.1" 200 -
+2025-07-11 16:49:35,303 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:49:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-11 16:49:35,305 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:49:35] "[36mGET /static/socket.io.min.js HTTP/1.1[0m" 304 -
+2025-07-11 16:49:35,306 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:49:35] "[36mGET /static/default.jpg HTTP/1.1[0m" 304 -
+2025-07-11 16:49:35,308 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:49:35] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+2025-07-11 16:49:35,325 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:49:35] "GET /socket.io/?EIO=4&transport=polling&t=PVvDawO HTTP/1.1" 200 -
+2025-07-11 16:49:35,328 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:49:35] "[36mGET /static/finalDash.png HTTP/1.1[0m" 304 -
+2025-07-11 16:49:35,345 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:49:35] "POST /socket.io/?EIO=4&transport=polling&t=PVvDawf&sid=qdS5dd0UiyHP73iaAAAC HTTP/1.1" 200 -
+2025-07-11 16:49:35,347 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:49:35] "GET /socket.io/?EIO=4&transport=polling&t=PVvDawg&sid=qdS5dd0UiyHP73iaAAAC HTTP/1.1" 200 -
+2025-07-11 16:50:25,012 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:50:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-11 16:50:26,746 - root - INFO - Query string Describe what you see in the picture.
+2025-07-11 16:50:26,746 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:50:26] "POST /upload_image HTTP/1.1" 200 -
+2025-07-11 16:50:26,762 - root - INFO - Query string Describe what you see in the picture.
+2025-07-11 16:50:26,762 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:50:26] "POST /upload_image HTTP/1.1" 200 -
+2025-07-11 16:50:30,593 - root - INFO - Query string Describe what you see in the picture.
+2025-07-11 16:50:30,593 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:50:30] "POST /upload_image HTTP/1.1" 200 -
+2025-07-11 16:50:30,608 - root - INFO - Query string Describe what you see in the picture.
+2025-07-11 16:50:30,609 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:50:30] "POST /upload_image HTTP/1.1" 200 -
+2025-07-11 16:50:42,509 - app - ERROR - Exception on /upload [POST]
+Traceback (most recent call last):
+  File "/home/test/Downloads/simaai-genai-demo/demo/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/test/Downloads/simaai-genai-demo/demo/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/test/Downloads/simaai-genai-demo/demo/lib/python3.10/site-packages/flask_cors/extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/test/Downloads/simaai-genai-demo/demo/lib/python3.10/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/test/Downloads/simaai-genai-demo/demo/lib/python3.10/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/home/test/Downloads/simaai-genai-demo/app.py", line 191, in upload
+    result = genai_app.model_manager.run("uploads/audio.webm")
+  File "/home/test/Downloads/simaai-genai-demo/app.py", line 53, in run
+    return self.model.transcribe(path, language="en")
+  File "/home/test/Downloads/simaai-genai-demo/demo/lib/python3.10/site-packages/whisper/transcribe.py", line 122, in transcribe
+    mel = log_mel_spectrogram(audio, model.dims.n_mels, padding=N_SAMPLES)
+  File "/home/test/Downloads/simaai-genai-demo/demo/lib/python3.10/site-packages/whisper/audio.py", line 140, in log_mel_spectrogram
+    audio = load_audio(audio)
+  File "/home/test/Downloads/simaai-genai-demo/demo/lib/python3.10/site-packages/whisper/audio.py", line 58, in load_audio
+    out = run(cmd, capture_output=True, check=True).stdout
+  File "/usr/lib/python3.10/subprocess.py", line 503, in run
+    with Popen(*popenargs, **kwargs) as process:
+  File "/usr/lib/python3.10/subprocess.py", line 971, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.10/subprocess.py", line 1863, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'ffmpeg'
+2025-07-11 16:50:42,526 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:50:42] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-07-11 16:50:51,683 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:50:51] "GET /socket.io/?EIO=4&transport=websocket&sid=qdS5dd0UiyHP73iaAAAC HTTP/1.1" 200 -
+2025-07-11 16:50:51,688 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:50:51] "GET / HTTP/1.1" 200 -
+2025-07-11 16:50:51,727 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:50:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-11 16:50:51,729 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:50:51] "[36mGET /static/socket.io.min.js HTTP/1.1[0m" 304 -
+2025-07-11 16:50:51,731 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:50:51] "GET /static/default.jpg HTTP/1.1" 200 -
+2025-07-11 16:50:51,732 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:50:51] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+2025-07-11 16:50:51,747 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:50:51] "[36mGET /static/finalDash.png HTTP/1.1[0m" 304 -
+2025-07-11 16:50:51,751 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:50:51] "GET /socket.io/?EIO=4&transport=polling&t=PVvDtaZ HTTP/1.1" 200 -
+2025-07-11 16:50:51,769 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:50:51] "POST /socket.io/?EIO=4&transport=polling&t=PVvDtap&sid=3KjFNok9ZYZBB-zrAAAE HTTP/1.1" 200 -
+2025-07-11 16:50:51,770 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2025 16:50:51] "GET /socket.io/?EIO=4&transport=polling&t=PVvDtaq&sid=3KjFNok9ZYZBB-zrAAAE HTTP/1.1" 200 -
