@@ -1,0 +1,43 @@
+2025-07-07 09:03:04,988 - root - INFO - Starting SiMa.ai genai server with None None
+2025-07-07 09:03:04,989 - root - INFO - Started standalone HTTP server in a separate thread
+2025-07-07 09:03:04,989 - root - INFO - Standalone HTTP server is running on port 8081
+2025-07-07 09:03:04,992 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:5000
+ * Running on https://192.168.76.61:5000
+2025-07-07 09:03:04,992 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-07 09:03:12,492 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 09:03:12] "GET / HTTP/1.1" 200 -
+2025-07-07 09:03:12,556 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 09:03:12] "GET /static/style.css HTTP/1.1" 200 -
+2025-07-07 09:03:12,557 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 09:03:12] "GET /static/socket.io.min.js HTTP/1.1" 200 -
+2025-07-07 09:03:12,560 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 09:03:12] "GET /static/mlsoc-modalix-m25.svg HTTP/1.1" 200 -
+2025-07-07 09:03:12,562 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 09:03:12] "GET /static/default.jpg HTTP/1.1" 200 -
+2025-07-07 09:03:12,589 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 09:03:12] "GET /static/main.js HTTP/1.1" 200 -
+2025-07-07 09:03:12,612 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 09:03:12] "GET /socket.io/?EIO=4&transport=polling&t=PVYyUCR HTTP/1.1" 200 -
+2025-07-07 09:03:12,637 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 09:03:12] "POST /socket.io/?EIO=4&transport=polling&t=PVYyUCp&sid=DMGMMWzSYTq6UMuNAAAA HTTP/1.1" 200 -
+2025-07-07 09:03:12,640 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 09:03:12] "GET /socket.io/?EIO=4&transport=polling&t=PVYyUCq&sid=DMGMMWzSYTq6UMuNAAAA HTTP/1.1" 200 -
+2025-07-07 09:03:12,885 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 09:03:12] "GET /video_feed HTTP/1.1" 200 -
+2025-07-07 09:03:12,939 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 09:03:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-07 09:07:02,513 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 09:07:02] "GET /socket.io/?EIO=4&transport=websocket&sid=DMGMMWzSYTq6UMuNAAAA HTTP/1.1" 200 -
+2025-07-07 09:07:03,990 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 09:07:03] "GET /socket.io/?EIO=4&transport=polling&t=PVYzMhc HTTP/1.1" 200 -
+2025-07-07 09:07:04,029 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 09:07:04] "POST /socket.io/?EIO=4&transport=polling&t=PVYzMi7&sid=5aE44BA42BeineqJAAAC HTTP/1.1" 200 -
+2025-07-07 09:07:04,033 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 09:07:04] "GET /socket.io/?EIO=4&transport=polling&t=PVYzMi9&sid=5aE44BA42BeineqJAAAC HTTP/1.1" 200 -
+2025-07-07 09:07:46,731 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 09:07:46] "GET /socket.io/?EIO=4&transport=websocket&sid=5aE44BA42BeineqJAAAC HTTP/1.1" 200 -
+2025-07-07 09:07:48,235 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 09:07:48] "GET /socket.io/?EIO=4&transport=polling&t=PVYzXU_ HTTP/1.1" 200 -
+2025-07-07 09:07:48,264 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 09:07:48] "POST /socket.io/?EIO=4&transport=polling&t=PVYzXVO&sid=tdR2xez7A5KXFOieAAAE HTTP/1.1" 200 -
+2025-07-07 09:07:48,268 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 09:07:48] "GET /socket.io/?EIO=4&transport=polling&t=PVYzXVP&sid=tdR2xez7A5KXFOieAAAE HTTP/1.1" 200 -
+2025-07-07 10:18:01,550 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 10:18:01] "GET /socket.io/?EIO=4&transport=websocket&sid=tdR2xez7A5KXFOieAAAE HTTP/1.1" 200 -
+2025-07-07 10:18:03,031 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 10:18:03] "GET /socket.io/?EIO=4&transport=polling&t=PVZDcV9 HTTP/1.1" 200 -
+2025-07-07 10:18:03,065 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 10:18:03] "POST /socket.io/?EIO=4&transport=polling&t=PVZDcVe&sid=sFaBvhteTieAE7QyAAAG HTTP/1.1" 200 -
+2025-07-07 10:18:03,067 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 10:18:03] "GET /socket.io/?EIO=4&transport=polling&t=PVZDcVh&sid=sFaBvhteTieAE7QyAAAG HTTP/1.1" 200 -
+2025-07-07 10:19:00,769 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 10:19:00] "GET /socket.io/?EIO=4&transport=websocket&sid=sFaBvhteTieAE7QyAAAG HTTP/1.1" 200 -
+2025-07-07 10:19:02,057 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 10:19:02] "GET /socket.io/?EIO=4&transport=polling&t=PVZDqvU HTTP/1.1" 200 -
+2025-07-07 10:19:02,088 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 10:19:02] "POST /socket.io/?EIO=4&transport=polling&t=PVZDqvs&sid=ck_WogIxDboptcqKAAAI HTTP/1.1" 200 -
+2025-07-07 10:19:02,091 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 10:19:02] "GET /socket.io/?EIO=4&transport=polling&t=PVZDqvt&sid=ck_WogIxDboptcqKAAAI HTTP/1.1" 200 -
+2025-07-07 10:29:10,660 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 10:29:10] "GET /socket.io/?EIO=4&transport=websocket&sid=ck_WogIxDboptcqKAAAI HTTP/1.1" 200 -
+2025-07-07 10:29:11,942 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 10:29:11] "GET /socket.io/?EIO=4&transport=polling&t=PVZG9ox HTTP/1.1" 200 -
+2025-07-07 10:29:11,977 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 10:29:11] "POST /socket.io/?EIO=4&transport=polling&t=PVZG9pM&sid=_tC4KmSV-H7De-F2AAAK HTTP/1.1" 200 -
+2025-07-07 10:29:11,979 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 10:29:11] "GET /socket.io/?EIO=4&transport=polling&t=PVZG9pP&sid=_tC4KmSV-H7De-F2AAAK HTTP/1.1" 200 -
+2025-07-07 10:36:43,755 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 10:36:43] "GET /socket.io/?EIO=4&transport=websocket&sid=_tC4KmSV-H7De-F2AAAK HTTP/1.1" 200 -
+2025-07-07 10:36:45,144 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 10:36:45] "GET /socket.io/?EIO=4&transport=polling&t=PVZHuSB HTTP/1.1" 200 -
+2025-07-07 10:36:45,180 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 10:36:45] "POST /socket.io/?EIO=4&transport=polling&t=PVZHuSe&sid=CjdJY2Fo7fhTyjCWAAAM HTTP/1.1" 200 -
+2025-07-07 10:36:45,185 - werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 10:36:45] "GET /socket.io/?EIO=4&transport=polling&t=PVZHuSg&sid=CjdJY2Fo7fhTyjCWAAAM HTTP/1.1" 200 -
